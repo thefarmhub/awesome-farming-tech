@@ -1,6 +1,6 @@
 # Aquaponic Technology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A collection of valuable resources for making your own IoT aquaponic monitoring system.
+Aquaponics is the sustainable and regenerative next-gen soil-less farming method that uses fish to grow plants.  This is a collection of valuable resources for making your own IoT aquaponic monitoring system.
 
 ## Contents
 
