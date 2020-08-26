@@ -4,22 +4,42 @@ Aquaponics is the sustainable and regenerative next-gen soil-less farming method
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Software](#software)
+- [Sensors](#sensors)
 
-## Section
+## Software
 
-About this section. Optional. Keep this short and focus on the list.
+### Paid
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Aquaponics AI](https://aquaponics.ai)
+- [Autogrow](https://autogrow.com/)
+- [Grafana](https://grafana.com/)
 
-## Another Section
+### Open Source
 
-### Subsection
+- [ThingsSpeak](https://thingspeak.com/)
+- [ThingsBoard](https://github.com/thingsboard/thingsboard)
+- [FreeBoard](https://github.com/Freeboard/freeboard)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Sensors
+
+Sensors have a wide range of quality, accuracy and durability.  Depending on your budget and goals you will need to choose your sensors wisely.
+
+### pH Sensors
+
+- [Atlas Scientific](https://atlas-scientific.com/ph/)
+
+### Humidity Sensors
+
+- [Atlas Scientific](https://atlas-scientific.com/probes/ezo-hum-embedded-humidity-sensor/)
+
+### Conductivity Sensors
+
+- [Atlas Scientific](https://atlas-scientific.com/conductivity/)
+
+### Dissolved Oxygen Sensors
+
+- [Atlas Scientific](https://atlas-scientific.com/dissolved-oxygen/)
 
 ## Contribute
 
