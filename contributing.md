@@ -8,9 +8,8 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure to update `data.yml` with the information
+- Create a pull request with a proper comment
 
 Thank you for your suggestions!
 
