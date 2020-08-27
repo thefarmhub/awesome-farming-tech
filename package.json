@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "node format.js"
+  },
+  "dependencies": {
+    "yaml": "^1.10.0"
+  }
+}

@@ -1,0 +1,64 @@
+labels:
+  rh: Humidity
+  ec: Electrical Conductivity
+  ph: pH
+  do: Dissolved Oxygen
+  temp: Temperature
+  water_temp: Water Temperature
+  lux: Light
+  flow: Water Flow
+
+vendors:
+  - name: Atlas Scientific
+    categories:
+      - hardware
+      - software
+    description: Has sensors for intermediate level tracking and works well with Raspberry Pi
+    website: https://atlas-scientific.com
+    sensors:
+      rh: https://atlas-scientific.com/probes/ezo-hum-embedded-humidity-sensor/
+      ec: https://atlas-scientific.com/conductivity/
+      ph: https://atlas-scientific.com/ph/
+      do: https://atlas-scientific.com/dissolved-oxygen/
+  - name: ThingsTel
+    website: https://www.thingstel.com/
+    categories:
+      - hardware
+      - software
+    sensors:
+      water_temp: https://www.thingstel.com/documents/WATER_TEMP_V2.pdf
+      lux: https://www.thingstel.com/documents/LIGHTSENSOR_V2.pdf
+      rh: https://www.thingstel.com/documents/TEMP_HUMIDITY_V2.pdf
+      do: https://www.thingstel.com/documents/DISSOLVED_OXYGEN.pdf
+      flow: https://www.thingstel.com/documents/WATER_FLOW.pdf
+      ph: https://www.thingstel.com/documents/pH_SENSOR.pdf
+  - name: Aquaponics AI
+    categories:
+      - software
+    description: Has software for managing an aquaponics system both on desktop and mobile.
+    website: https://aquaponics.ai
+  - name: Autogrow
+    categories:
+      - software
+    website: https://autogrow.com/
+    description: Autogrow specializes in the research, development &amp; innovation of automated growing solutions so that you can grow anywhere with Autogrow.
+  - name: Grafana
+    categories:
+      - software
+    website: https://grafana.com/
+    description: Grafana is the open source analytics & monitoring solution for every database.
+  - name: ThingsSpeak
+    categories:
+      - software
+    website: https://thingspeak.com/
+    description: Data collection in the cloud with advanced data analysis using MATLAB
+  - name: ThingsBoard
+    categories:
+      - software
+    website: https://github.com/thingsboard/thingsboard
+    description: ThingsBoard is an open-source IoT platform for data collection, processing, visualization, and device management.
+  - name: FreeBoard
+    categories:
+      - software
+    website: https://github.com/Freeboard/freeboard
+    description: Freeboard is a turn-key HTML-based "engine" for dashboards.
