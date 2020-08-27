@@ -63,7 +63,7 @@ Sensors have a wide range of quality, accuracy and durability.  Depending on you
 ${Object.keys(vendorsByMetric)
   .map((metric) => {
     const list = vendorsByMetric[metric].sort().join("\n");
-    return `\n\n### ${labels[metric]}\n\n${list}`;
+    return `\n\n#### ${labels[metric]}\n\n${list}`;
   })
   .sort()
   .join("")

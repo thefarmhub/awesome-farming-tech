@@ -28,33 +28,33 @@ Aquaponics is the sustainable and regenerative next-gen soil-less farming method
 
 Sensors have a wide range of quality, accuracy and durability.  Depending on your budget and goals you will need to choose your sensors wisely.
 
-### Dissolved Oxygen
+#### Dissolved Oxygen
 
 - [Atlas Scientific](https://atlas-scientific.com/dissolved-oxygen/)
 - [ThingsTel](https://www.thingstel.com/documents/DISSOLVED_OXYGEN.pdf)
 
-### Electrical Conductivity
+#### Electrical Conductivity
 
 - [Atlas Scientific](https://atlas-scientific.com/conductivity/)
 
-### Humidity
+#### Humidity
 
 - [Atlas Scientific](https://atlas-scientific.com/probes/ezo-hum-embedded-humidity-sensor/)
 - [ThingsTel](https://www.thingstel.com/documents/TEMP_HUMIDITY_V2.pdf)
 
-### Light
+#### Light
 
 - [ThingsTel](https://www.thingstel.com/documents/LIGHTSENSOR_V2.pdf)
 
-### Water Flow
+#### Water Flow
 
 - [ThingsTel](https://www.thingstel.com/documents/WATER_FLOW.pdf)
 
-### Water Temperature
+#### Water Temperature
 
 - [ThingsTel](https://www.thingstel.com/documents/WATER_TEMP_V2.pdf)
 
-### pH
+#### pH
 
 - [Atlas Scientific](https://atlas-scientific.com/ph/)
 - [ThingsTel](https://www.thingstel.com/documents/pH_SENSOR.pdf)
