@@ -17,12 +17,12 @@ Aquaponics is the sustainable and regenerative next-gen soil-less farming method
 - [Grafana](https://grafana.com/) Grafana is the open source analytics & monitoring solution for every database.
 - [ThingsBoard](https://github.com/thingsboard/thingsboard) ThingsBoard is an open-source IoT platform for data collection, processing, visualization, and device management.
 - [ThingsSpeak](https://thingspeak.com/) Data collection in the cloud with advanced data analysis using MATLAB
-- [ThingsTel](https://www.thingstel.com/)
+- [ThingsTel](https://www.thingstel.com/) Thingstel IOT Platform App Solution Mobile Real Time Analytics Dashboard
 
 ## Hardware Suppliers
 
 - [Atlas Scientific](https://atlas-scientific.com) Has sensors for intermediate level tracking and works well with Raspberry Pi
-- [ThingsTel](https://www.thingstel.com/)
+- [ThingsTel](https://www.thingstel.com/) Thingstel IOT Platform App Solution Mobile Real Time Analytics Dashboard
 
 ## Sensors
 

@@ -22,6 +22,7 @@ vendors:
       do: https://atlas-scientific.com/dissolved-oxygen/
   - name: ThingsTel
     website: https://www.thingstel.com/
+    description: Thingstel IOT Platform App Solution Mobile Real Time Analytics Dashboard
     categories:
       - hardware
       - software
