@@ -7,6 +7,7 @@ labels:
   water_temp: Water Temperature
   lux: Light
   flow: Water Flow
+  tds: Total Dissolved Solids
   multi: Multiparameter Monitoring System
 
 vendors:
@@ -105,3 +106,21 @@ vendors:
       do: https://www.ysi.com/Product/id-5562/5562-Polarographic-DO-Temperature-and-Conductivity-Cable
       temp: https://www.ysi.com/Product/id-5562/5562-Polarographic-DO-Temperature-and-Conductivity-Cable
       ec: https://www.ysi.com/Product/id-5562/5562-Polarographic-DO-Temperature-and-Conductivity-Cable
+  - name: Oakton
+    categories:
+      - hardware
+    website: http://www.4oakton.com/
+    description: OAKTON offers scientific instruments for research, industrial, and educational uses.
+    sensors:
+      ph: http://www.4oakton.com/products.asp?parent=1&prod=38
+      tds: http://www.4oakton.com/products.asp?parent=50&prod=56
+      do: http://www.4oakton.com/proddetail.asp?parent=83&prod=307&value=detail
+      temp: http://www.4oakton.com/products.asp?parent=93&prod=309
+      rh: http://www.4oakton.com/products.asp?parent=106&prod=107
+  - name: Agrowtek
+    categories:
+      - hardware
+    website: https://www.agrowtek.com/
+    description: Agrowtek Inc. is a premier automation controls manufacturer for the the discerning horticulturalist.
+    sensors:
+      multi: https://www.agrowtek.com/index.php/products/sensors/hydro-sensors/sxh-ph-ec-temp-hydroponics-sensor-14-detail
