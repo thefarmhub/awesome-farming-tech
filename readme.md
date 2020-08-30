@@ -24,6 +24,7 @@ Aquaponics is the sustainable and regenerative next-gen soil-less farming method
 
 - [Agrowtek](https://www.agrowtek.com/) Agrowtek Inc. is a premier automation controls manufacturer for the the discerning horticulturalist.
 - [Atlas Scientific](https://atlas-scientific.com) Has sensors for intermediate level tracking and works well with Raspberry Pi
+- [Bluelab](https://bluelab.com) Bluelab offers a comprehensive range of pH meters, pH testers, pH controllers and calibration solutions for any growing medium, from soil to solution.
 - [Hanna Instruments](https://intl.hannainst.com/) Hanna is working to solve some of the world's biggest problems by making scientific testing more accessible, easy, and accurate.
 - [Netilion](https://netilion.endress.com/smart-systems/aquaculture) Netilion Smart System for Aquaculture
 - [Oakton](http://www.4oakton.com/) OAKTON offers scientific instruments for research, industrial, and educational uses.
@@ -48,6 +49,7 @@ Sensors have a wide range of quality, accuracy and durability.  Depending on you
 #### Electrical Conductivity
 
 - [Atlas Scientific](https://atlas-scientific.com/conductivity/)
+- [Bluelab](https://bluelab.com/new_zealand/bluelab-pro-controller-conductivity-probe)
 - [Sensorex](https://sensorex.com/product/cs700-contacting-conductivity-sensor/)
 - [Xylem](https://www.xylemanalytics.com/en/products/ph-orp-cond-do-meters-and-probes/conductivity-cells)
 - [YSI](https://www.ysi.com/Product/id-5562/5562-Polarographic-DO-Temperature-and-Conductivity-Cable)
@@ -65,6 +67,7 @@ Sensors have a wide range of quality, accuracy and durability.  Depending on you
 #### Multiparameter Monitoring System
 
 - [Agrowtek](https://www.agrowtek.com/index.php/products/sensors/hydro-sensors/sxh-ph-ec-temp-hydroponics-sensor-14-detail)
+- [Bluelab](https://bluelab.com/new_zealand/bluelab-guardian-monitor)
 - [Netilion](https://netilion.endress.com/smart-systems/aquaculture/buy-smart-system-for-aquaculture)
 - [YSI](https://www.ysi.com/5200A)
 
@@ -88,6 +91,7 @@ Sensors have a wide range of quality, accuracy and durability.  Depending on you
 #### pH
 
 - [Atlas Scientific](https://atlas-scientific.com/ph/)
+- [Bluelab](https://bluelab.com/new_zealand/bluelab-ph-probe)
 - [Oakton](http://www.4oakton.com/products.asp?parent=1&prod=38)
 - [Sensorex](https://sensorex.com/product/improved-s272cd-online-process-ph-sensor/)
 - [ThingsTel](https://www.thingstel.com/documents/pH_SENSOR.pdf)

@@ -124,3 +124,12 @@ vendors:
     description: Agrowtek Inc. is a premier automation controls manufacturer for the the discerning horticulturalist.
     sensors:
       multi: https://www.agrowtek.com/index.php/products/sensors/hydro-sensors/sxh-ph-ec-temp-hydroponics-sensor-14-detail
+  - name: Bluelab
+    categories:
+      - hardware
+    website: https://bluelab.com
+    description: Bluelab offers a comprehensive range of pH meters, pH testers, pH controllers and calibration solutions for any growing medium, from soil to solution.
+    sensors:
+      multi: https://bluelab.com/new_zealand/bluelab-guardian-monitor
+      ph: https://bluelab.com/new_zealand/bluelab-ph-probe
+      ec: https://bluelab.com/new_zealand/bluelab-pro-controller-conductivity-probe
