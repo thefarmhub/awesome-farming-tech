@@ -15,6 +15,7 @@ Aquaponics is the sustainable and regenerative next-gen soil-less farming method
 - [Autogrow](https://autogrow.com/) Autogrow specializes in the research, development &amp; innovation of automated growing solutions so that you can grow anywhere with Autogrow.
 - [FreeBoard](https://github.com/Freeboard/freeboard) Freeboard is a turn-key HTML-based "engine" for dashboards.
 - [Grafana](https://grafana.com/) Grafana is the open source analytics & monitoring solution for every database.
+- [Netilion](https://netilion.endress.com/smart-systems/aquaculture) Netilion Smart System for Aquaculture
 - [ThingsBoard](https://github.com/thingsboard/thingsboard) ThingsBoard is an open-source IoT platform for data collection, processing, visualization, and device management.
 - [ThingsSpeak](https://thingspeak.com/) Data collection in the cloud with advanced data analysis using MATLAB
 - [ThingsTel](https://www.thingstel.com/) Thingstel IOT Platform App Solution Mobile Real Time Analytics Dashboard
@@ -22,7 +23,12 @@ Aquaponics is the sustainable and regenerative next-gen soil-less farming method
 ## Hardware Suppliers
 
 - [Atlas Scientific](https://atlas-scientific.com) Has sensors for intermediate level tracking and works well with Raspberry Pi
+- [Hanna Instruments](https://intl.hannainst.com/) Hanna is working to solve some of the world's biggest problems by making scientific testing more accessible, easy, and accurate.
+- [Netilion](https://netilion.endress.com/smart-systems/aquaculture) Netilion Smart System for Aquaculture
+- [Sensorex](https://sensorex.com/) Industrial, commercial, and residential use liquid analysis sensors.
 - [ThingsTel](https://www.thingstel.com/) Thingstel IOT Platform App Solution Mobile Real Time Analytics Dashboard
+- [Xylem](https://www.xylemanalytics.com/) Xylem Analytics is part of Xylem Inc. and a leading provider of premium field, portable, online and laboratory analytical intrumentation for water and wastewater, ocean/coastal, food & beverage, environmental, chemical and pharmaceutical markets.
+- [YSI](https://www.ysi.com) High-end aquaculture process monitors and sensors
 
 ## Sensors
 
@@ -31,11 +37,17 @@ Sensors have a wide range of quality, accuracy and durability.  Depending on you
 #### Dissolved Oxygen
 
 - [Atlas Scientific](https://atlas-scientific.com/dissolved-oxygen/)
+- [Sensorex](https://sensorex.com/product/do6400-dissolved-oxygen-sensor/)
 - [ThingsTel](https://www.thingstel.com/documents/DISSOLVED_OXYGEN.pdf)
+- [Xylem](https://www.xylemanalytics.com/en/products/ph-orp-cond-do-meters-and-probes/oxygen-sensors)
+- [YSI](https://www.ysi.com/Product/id-5562/5562-Polarographic-DO-Temperature-and-Conductivity-Cable)
 
 #### Electrical Conductivity
 
 - [Atlas Scientific](https://atlas-scientific.com/conductivity/)
+- [Sensorex](https://sensorex.com/product/cs700-contacting-conductivity-sensor/)
+- [Xylem](https://www.xylemanalytics.com/en/products/ph-orp-cond-do-meters-and-probes/conductivity-cells)
+- [YSI](https://www.ysi.com/Product/id-5562/5562-Polarographic-DO-Temperature-and-Conductivity-Cable)
 
 #### Humidity
 
@@ -45,6 +57,15 @@ Sensors have a wide range of quality, accuracy and durability.  Depending on you
 #### Light
 
 - [ThingsTel](https://www.thingstel.com/documents/LIGHTSENSOR_V2.pdf)
+
+#### Multiparameter Monitoring System
+
+- [Netilion](https://netilion.endress.com/smart-systems/aquaculture/buy-smart-system-for-aquaculture)
+- [YSI](https://www.ysi.com/5200A)
+
+#### Temperature
+
+- [YSI](https://www.ysi.com/Product/id-5562/5562-Polarographic-DO-Temperature-and-Conductivity-Cable)
 
 #### Water Flow
 
@@ -57,7 +78,9 @@ Sensors have a wide range of quality, accuracy and durability.  Depending on you
 #### pH
 
 - [Atlas Scientific](https://atlas-scientific.com/ph/)
+- [Sensorex](https://sensorex.com/product/improved-s272cd-online-process-ph-sensor/)
 - [ThingsTel](https://www.thingstel.com/documents/pH_SENSOR.pdf)
+- [Xylem](https://www.xylemanalytics.com/en/products/ph-orp-cond-do-meters-and-probes/ph-electrodes)
 
 ## Contribute
 

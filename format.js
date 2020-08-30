@@ -15,6 +15,8 @@ const softwareVendors = vendors.filter(
 
 const vendorsByMetric = {};
 hardwareVendors.forEach((vendor) => {
+  if (!vendor.sensors) return;
+
   Object.keys(vendor.sensors).forEach((metric) => {
     const link = vendor.sensors[metric];
     if (!vendorsByMetric[metric]) vendorsByMetric[metric] = [];

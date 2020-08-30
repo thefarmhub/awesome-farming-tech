@@ -7,6 +7,7 @@ labels:
   water_temp: Water Temperature
   lux: Light
   flow: Water Flow
+  multi: Multiparameter Monitoring System
 
 vendors:
   - name: Atlas Scientific
@@ -63,3 +64,44 @@ vendors:
       - software
     website: https://github.com/Freeboard/freeboard
     description: Freeboard is a turn-key HTML-based "engine" for dashboards.
+  - name: Hanna Instruments
+    categories:
+      - hardware
+    website: https://intl.hannainst.com/
+    description: Hanna is working to solve some of the world's biggest problems by making scientific testing more accessible, easy, and accurate.
+  - name: Xylem
+    categories:
+      - hardware
+    website: https://www.xylemanalytics.com/
+    description: Xylem Analytics is part of Xylem Inc. and a leading provider of premium field, portable, online and laboratory analytical intrumentation for water and wastewater, ocean/coastal, food & beverage, environmental, chemical and pharmaceutical markets.
+    sensors:
+      ph: https://www.xylemanalytics.com/en/products/ph-orp-cond-do-meters-and-probes/ph-electrodes
+      do: https://www.xylemanalytics.com/en/products/ph-orp-cond-do-meters-and-probes/oxygen-sensors
+      ec: https://www.xylemanalytics.com/en/products/ph-orp-cond-do-meters-and-probes/conductivity-cells
+  - name: Sensorex
+    categories:
+      - hardware
+    website: https://sensorex.com/
+    description: Industrial, commercial, and residential use liquid analysis sensors.
+    sensors:
+      ec: https://sensorex.com/product/cs700-contacting-conductivity-sensor/
+      ph: https://sensorex.com/product/improved-s272cd-online-process-ph-sensor/
+      do: https://sensorex.com/product/do6400-dissolved-oxygen-sensor/
+  - name: Netilion
+    categories:
+      - hardware
+      - software
+    website: https://netilion.endress.com/smart-systems/aquaculture
+    description: Netilion Smart System for Aquaculture
+    sensors:
+      multi: https://netilion.endress.com/smart-systems/aquaculture/buy-smart-system-for-aquaculture
+  - name: YSI
+    categories:
+      - hardware
+    website: https://www.ysi.com
+    description: High-end aquaculture process monitors and sensors
+    sensors:
+      multi: https://www.ysi.com/5200A
+      do: https://www.ysi.com/Product/id-5562/5562-Polarographic-DO-Temperature-and-Conductivity-Cable
+      temp: https://www.ysi.com/Product/id-5562/5562-Polarographic-DO-Temperature-and-Conductivity-Cable
+      ec: https://www.ysi.com/Product/id-5562/5562-Polarographic-DO-Temperature-and-Conductivity-Cable
