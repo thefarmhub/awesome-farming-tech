@@ -22,6 +22,11 @@ vendors:
       ec: https://atlas-scientific.com/conductivity/
       ph: https://atlas-scientific.com/ph/
       do: https://atlas-scientific.com/dissolved-oxygen/
+  - name: AgSquared
+    categories:
+      - software
+    description: We are farmers, agriculture experts and technologists who are passionate about helping farmers run their businesses as best as they possibly can.
+    website: https://agsquared.com/
   - name: ThingsTel
     website: https://www.thingstel.com/
     description: Thingstel IOT Platform App Solution Mobile Real Time Analytics Dashboard
