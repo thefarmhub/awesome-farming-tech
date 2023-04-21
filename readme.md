@@ -1,6 +1,6 @@
-# Aquaponic Technology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Farming Tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Aquaponics is the sustainable and regenerative next-gen soil-less farming method that uses fish to grow plants.  This is a collection of valuable resources for making your own IoT aquaponic monitoring system.
+Awesome Farming Tech is a curated list of resources that aims to showcase the latest and most innovative technologies in the field of agriculture.  Here you'll find valuable resources for making your own IoT monitoring system.
 
 ## Contents
 
@@ -10,7 +10,7 @@ Aquaponics is the sustainable and regenerative next-gen soil-less farming method
 
 ## Software Suppliers
 
-- [Aquaponics AI](https://aquaponics.ai) Has software for managing an aquaponics system both on desktop and mobile.
+- [FarmHub](https://farmhub.ag) Has software for managing an hydroponics, aquaponics and aquaculture systems on both on desktop and mobile.
 - [Atlas Scientific](https://atlas-scientific.com) Has sensors for intermediate level tracking and works well with Raspberry Pi
 - [Autogrow](https://autogrow.com/) Autogrow specializes in the research, development &amp; innovation of automated growing solutions so that you can grow anywhere with Autogrow.
 - [FreeBoard](https://github.com/Freeboard/freeboard) Freeboard is a turn-key HTML-based "engine" for dashboards.
