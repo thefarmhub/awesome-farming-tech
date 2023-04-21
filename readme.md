@@ -1,6 +1,6 @@
-# Farming Tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Farming Tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome Farming Tech is a curated list of resources that aims to showcase the latest and most innovative technologies in the field of agriculture.  Here you'll find valuable resources for making your own IoT monitoring system.
+A curated list of resources that aims to showcase the latest and most innovative technologies in the field of agriculture.  Here you'll find valuable resources for making your own IoT monitoring system.
 
 ## Contents
 
